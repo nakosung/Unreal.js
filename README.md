@@ -1,5 +1,7 @@
 # Unreal.js
 
+[![Join the chat at https://gitter.im/nakosung/Unreal.js](https://badges.gitter.im/nakosung/Unreal.js.svg)](https://gitter.im/nakosung/Unreal.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Unreal.js is a plug-in which brings V8-powered Javascript into UnrealEngine4. 
 
 ### Features
